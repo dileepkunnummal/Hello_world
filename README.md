@@ -1,2 +1,2 @@
 # Hello_world
-justr a repository
+just a repository
